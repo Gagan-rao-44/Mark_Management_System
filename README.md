@@ -151,7 +151,7 @@ http://localhost:8080/markmanagement/
 <img src="Screenshot/updatemark.png" alt="updatemark" width="700"/>
 
 
-### ❌ Delete Record
+### ❌ Delete Mark
 
 <img src="Screenshot/deletemark.png" alt="delete mark" width="700"/>
 
