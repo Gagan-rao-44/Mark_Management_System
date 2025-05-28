@@ -160,6 +160,11 @@ http://localhost:8080/markmanagement/
 
 <img src="Screenshot/displaymark.png" alt="display mark" width="700"/>
 
+### 📊 Generate Report
+
+<img src="Screenshot/generatereport.png" alt="generate report" width="700"/>
+
+
 
 
 
