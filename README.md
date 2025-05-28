@@ -139,7 +139,8 @@ http://localhost:8080/markmanagement/
 
 ###🏠 Home Page
 
-<img src="screenshots/homepage.png" alt="Display Marks" width="700"/>
+<img src="screenshot/homepage.png" alt="Display Marks" width="700"/>
+
 ### ➕ Add Marks Page
 
 
