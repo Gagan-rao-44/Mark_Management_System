@@ -70,7 +70,28 @@ MarkWebApp/
 │   └── web.xml
 └── README.md
 
+```
+
 ## 🗄️ Database Configuration
+### Step 1: Create Database
+
+```sql
+CREATE DATABASE IF NOT EXISTS mark_management;
+USE mark_management;
+
+```
+### Step 2: Create Table
+```sql
+CREATE TABLE StudentMarks (
+StudentID INT PRIMARY KEY,
+StudentName VARCHAR(100),
+Subject VARCHAR(50),
+Marks INT,
+ExamDate DATE
+);
+```
+
+
 
 
 
