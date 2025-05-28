@@ -121,6 +121,24 @@ connection = DriverManager.getConnection(
     ""
 );
 ```
+### Step 3: Deploy to Tomcat
+
+Create a Dynamic Web Project in your IDE
+
+Import files as per structure
+
+Add MySQL connector to WEB-INF/lib
+
+Start the server and visit:
+
+```
+http://localhost:8080/markmanagement/  
+```
+
+## 📸 Screenshots
+
+###🏠 Home Page
+
 
 
 
