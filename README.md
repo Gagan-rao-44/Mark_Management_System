@@ -113,6 +113,17 @@ INSERT INTO StudentMarks VALUES
 
 -MySQL Connector/J
 
+### Step 2: Configure JDBC in MarkDAO.java
+```java
+connection = DriverManager.getConnection(
+    "jdbc:mysql://localhost:3306/structure",
+    "roote",
+    ""
+);
+```
+
+
+
 
 
 
