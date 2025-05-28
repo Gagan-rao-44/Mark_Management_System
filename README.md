@@ -13,7 +13,7 @@
 ---
 A web-based system developed using JSP, Servlets, and MySQL, following the MVC architecture. It provides an efficient and user-friendly platform to manage student marks, generate reports, and maintain academic records.
 
-#🚀 Key Features
+##🚀 Key Features
 
 **Full CRUD Functionality**: Add, update, delete, and view student marks
 
@@ -26,6 +26,20 @@ Students scoring above a specified mark
 Students filtered by subject
 
 Top-N performing students
+
+##📋 Prerequisites
+-**java Development Kit (JDK)**
+
+-**Apache Tomcat Server – Version 9.0**
+
+-**MySQL Server (or XAMPP with MySQL support)**
+
+-**MySQL JDBC Driver (mysql-connector-java)**
+
+-**Integrated Development Environment (IDE)**
+
+-**Modern Web Browser**:Chrome
+
 
 
 
