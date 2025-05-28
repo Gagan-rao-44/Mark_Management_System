@@ -139,21 +139,26 @@ http://localhost:8080/markmanagement/
 
 ###🏠 Home Page
 
-<img src="Screenshot/homepage.png" alt="Homw page" width="700"/>
+<img src="Screenshot/homepage.png" alt="Home page" width="700"/>
 
 ### ➕ Add Marks Page
 
+<img src="Screenshot/addmark.png" alt="add mark" width="700"/>
 
-### 🔍 Search Student
 
+### 🔍 Update Mark
+
+<img src="Screenshot/updatemark.png" alt="updatemark" width="700"/>
 
 
 ### ❌ Delete Record
 
+<img src="Screenshot/deletemark.png" alt="delete mark" width="700"/>
 
 
-### 🆕 Update Marks
+### 🆕 Display Marks
 
+<img src="Screenshot/displaymark.png" alt="Home page" width="700"/>
 
 
 
