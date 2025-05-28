@@ -90,6 +90,28 @@ Marks INT,
 ExamDate DATE
 );
 ```
+###Step 3: Insert Sample Data
+
+```sql
+INSERT INTO StudentMarks VALUES
+(78, 'kiran', 'Mathematics', 55, '2023-04-18'),
+(1002, 'Gagan', 'cc', 90, '2024-05-10'),
+(1003, 'Rakshith', 'ada', 60, '2021-04-25'),
+```
+
+## 🔧 Installation & Setup
+
+### Step 1: Environment Setup
+
+-JDK 8 or above
+
+-Apache Tomcat 9+
+
+-MySQL Server or XAMPP
+
+-Eclipse / IntelliJ (J2EE IDE)
+
+-MySQL Connector/J
 
 
 
