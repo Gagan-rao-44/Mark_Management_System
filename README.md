@@ -40,6 +40,38 @@ Top-N performing students
 
 -**Modern Web Browser**:Chrome
 
+## 📦 Project Structure
+
+MarkWebApp/
+├── src/
+│   ├── dao/
+│   │   └── MarkDAO.java
+│   ├── model/
+│   │   └── StudentMark.java
+│   └── servlet/
+│       ├── AddMarkServlet.java
+│       ├── UpdateMarkServlet.java
+│       ├── DeleteMarkServlet.java
+│       ├── DisplayMarksServlet.java
+│       ├── ReportServlet.java
+│       └── ReportCriteriaServlet.java
+├── WebContent/
+│   ├── index.jsp
+│   ├── markadd.jsp
+│   ├── markupdate.jsp
+│   ├── markdelete.jsp
+│   ├── markdisplay.jsp
+│   ├── reports.jsp
+│   ├── report_form.jsp
+│   └── report_result.jsp
+├── WEB-INF/
+│   └── web.xml
+└── README.md
+
+## 🗄️ Database Configuration
+
+
+
 
 
 
