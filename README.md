@@ -139,7 +139,7 @@ http://localhost:8080/markmanagement/
 
 ###🏠 Home Page
 
-<img src=C:\Users\Gagan\Desktop\screenshot java projectalt="Home Page" width="700"/>
+<img src=screenshot java projectalt="Home Page" width="700"/>
 
 ### ➕ Add Marks Page
 
