@@ -158,7 +158,7 @@ http://localhost:8080/markmanagement/
 
 ### 🆕 Display Marks
 
-<img src="Screenshot/displaymark.png" alt="Home page" width="700"/>
+<img src="Screenshot/displaymark.png" alt="display mark" width="700"/>
 
 
 
